@@ -1,0 +1,150 @@
+# Awesome IA no pequeno negócio
+
+> AI for MEI and small business owners: assistants, privacy, the MEI and Simples rules, consumer rules, and LGPD for small businesses.
+
+[![Cartas do Ciro](https://img.shields.io/badge/Cartas%20do%20Ciro-subscribe-111111?style=flat-square)](https://go.mymarketing.click/iapn-cartas) [![YouTube](https://img.shields.io/badge/YouTube-%40ciro--maciel-111111?style=flat-square)](https://go.mymarketing.click/iapn-youtube) [![Instagram](https://img.shields.io/badge/Instagram-ciro.maciel-111111?style=flat-square)](https://go.mymarketing.click/iapn-instagram) [![Awesome](https://awesome.re/badge-flat2.svg)](https://go.mymarketing.click/iapn-awesome) [![RSS](https://img.shields.io/badge/RSS-feed-555555?style=flat-square)](feed/en.xml) ![34 items](https://img.shields.io/badge/items-34-555555?style=flat-square)
+
+[![Português](https://img.shields.io/badge/Portugu%C3%AAs-111111?style=for-the-badge)](README.md) [![English](https://img.shields.io/badge/English-6b6b6b?style=for-the-badge)](README-en.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-111111?style=for-the-badge)](README-es.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-111111?style=for-the-badge)](README-fr.md) [![Deutsch](https://img.shields.io/badge/Deutsch-111111?style=for-the-badge)](README-de.md) [![Italiano](https://img.shields.io/badge/Italiano-111111?style=for-the-badge)](README-it.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-111111?style=for-the-badge)](README-ru.md) [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-111111?style=for-the-badge)](README-zh.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-111111?style=for-the-badge)](README-ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-111111?style=for-the-badge)](README-ko.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-111111?style=for-the-badge)](README-hi.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-111111?style=for-the-badge)](README-ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa%20Indonesia-111111?style=for-the-badge)](README-id.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-111111?style=for-the-badge)](README-tr.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-111111?style=for-the-badge)](README-vi.md)
+
+For MEI and small business owners who want to use AI on WhatsApp, in marketing, and in cash flow without exposing customers. Covers assistants, the AI terms of Meta and Canva, MEI and Simples obligations, and the consumer rules that apply to sellers.
+
+## Content
+
+- [AI Assistants](#ai-assistants)
+- [Privacy in AI](#privacy-in-ai)
+- [MEI and Simples Nacional](#mei-and-simples-nacional)
+- [Rules for sellers](#rules-for-sellers)
+- [AI on social networks and in design](#ai-on-social-networks-and-in-design)
+- [Scams against small businesses](#scams-against-small-businesses)
+- [LGPD for small businesses](#lgpd-for-small-businesses)
+- [Data protection](#data-protection)
+- [Book and kit](#book-and-kit)
+- [Tags](#tags)
+- [How to contribute](#how-to-contribute)
+- [Other lists](#other-lists)
+- [Made by Ciro Cesar Maciel](#made-by-ciro-cesar-maciel)
+- [License](#license)
+
+## AI Assistants
+
+The most used, in alphabetical order. The order is not a recommendation.
+
+- [ChatGPT](https://go.mymarketing.click/iapn-chatgpt) - OpenAI's assistant, with free and paid plans. `free` `paid`
+- [Claude](https://go.mymarketing.click/iapn-claude) - Anthropic's assistant, with free and paid plans. `free` `paid`
+- [Copilot](https://go.mymarketing.click/iapn-copilot) - Microsoft's assistant, also inside Windows and Office. `free` `paid`
+- [Gemini](https://go.mymarketing.click/iapn-gemini) - Google's assistant, also inside Gmail and Google Docs. `free` `paid`
+
+## Privacy in AI
+
+Where to turn off the use of your conversations to train the model.
+
+- [Anthropic: onde mudar o treino](https://go.mymarketing.click/iapn-anthropic-onde-mudar-o-treino) - How to stop your conversations on Claude from being used to train the model. `official`
+- [Google: atividade do Gemini](https://go.mymarketing.click/iapn-google-atividade-do-gemini) - How to turn off Gemini's activity history and what changes as a result. `official`
+- [Microsoft: controles de privacidade do Copilot](https://go.mymarketing.click/iapn-microsoft-controles-de-privacidade) - Where to find the privacy and training controls for Copilot. `official`
+- [OpenAI: controles de dados](https://go.mymarketing.click/iapn-openai-controles-de-dados) - How to stop conversations on ChatGPT from being used to train the model. `official`
+- [WhatsApp: privacidade](https://go.mymarketing.click/iapn-whatsapp-privacidade) - What WhatsApp says about privacy, including when you chat with Meta AI. `official`
+
+## MEI and Simples Nacional
+
+The obligations, straight from the government.
+
+- [Comitê Gestor do IBS](https://go.mymarketing.click/iapn-comite-gestor-do-ibs) - The body that manages the IBS of the tax reform. `official` `free`
+- [Contribuição mensal do MEI](https://go.mymarketing.click/iapn-contribuicao-mensal-do-mei) - How to issue and pay the monthly DAS. `official` `free`
+- [Declaração anual do MEI](https://go.mymarketing.click/iapn-declaracao-anual-do-mei) - How to file the DASN-SIMEI, the annual revenue statement. `official` `free`
+- [Lei Complementar 123/2006](https://go.mymarketing.click/iapn-lei-complementar-123-2006) - The Microenterprise Statute and Simples Nacional. `official` `free`
+- [Lei Complementar 214/2025](https://go.mymarketing.click/iapn-lei-complementar-214-2025) - The law of the consumption tax reform: IBS, CBS and Selective Tax. `official` `free`
+- [MEI: perguntas frequentes](https://go.mymarketing.click/iapn-mei-perguntas-frequentes) - The official answers about the individual microentrepreneur. `official` `free`
+- [Nota fiscal do MEI](https://go.mymarketing.click/iapn-nota-fiscal-do-mei) - When the MEI issues an invoice and how. `official` `free`
+- [Portal do Empreendedor](https://go.mymarketing.click/iapn-portal-do-empreendedor) - The official MEI portal, with registration, guide and services. `official` `free`
+- [Portal do Simples Nacional](https://go.mymarketing.click/iapn-portal-do-simples-nacional) - The Receita portal for Simples Nacional and MEI. `official` `free`
+- [Relatório mensal de receitas](https://go.mymarketing.click/iapn-relatorio-mensal-de-receitas) - The model for the MEI's monthly gross revenue report. `official` `free`
+
+## Rules for sellers
+
+What applies at the counter and in online sales.
+
+- [Código de Defesa do Consumidor](https://go.mymarketing.click/iapn-codigo-de-defesa-do-consumidor) - The CDC compiled on Planalto. `official` `free`
+- [Decreto do comércio eletrônico](https://go.mymarketing.click/iapn-decreto-do-comercio-eletronico) - Decree 7.962/2013, with the rules for those who sell online. `official` `free`
+- [Lei da afixação de preços](https://go.mymarketing.click/iapn-lei-da-afixacao-de-precos) - Law 10.962/2004, on how to display the price to the consumer. `official` `free`
+- [Lei do preço por forma de pagamento](https://go.mymarketing.click/iapn-lei-do-preco-por-forma-de-pagamento) - Law 13.455/2017, which allows a different price depending on the payment method. `official` `free`
+
+## AI on social networks and in design
+
+The terms of the tools small businesses use most.
+
+- [Canva Shield](https://go.mymarketing.click/iapn-canva-shield) - What Canva promises about security and data use in its AI tools. `official`
+- [Meta: privacidade e IA generativa](https://go.mymarketing.click/iapn-meta-privacidade-e-ia-generativa) - How Meta uses data for its AIs, including from Instagram and WhatsApp. `official`
+- [Termos das IAs da Meta no Brasil](https://go.mymarketing.click/iapn-termos-das-ias-da-meta-no-brasil) - Meta AI's terms for people in Brazil. `official`
+
+## Scams against small businesses
+
+Fake payment slip and collection notice that imitate the government.
+
+- [MEI: orientações sobre fraude](https://go.mymarketing.click/iapn-mei-orientacoes-sobre-fraude) - Government alerts about fake payment slips and collection notices sent to MEI. `official` `free`
+- [Ministério da Justiça: boleto falso](https://go.mymarketing.click/iapn-ministerio-da-justica-boleto-falso) - What to do after paying a payment slip or a fake offer. `official` `free`
+- [Registrato do Banco Central](https://go.mymarketing.click/iapn-registrato-do-banco-central) - Free check of accounts, loans and Pix keys in your name. `official` `free`
+
+## LGPD for small businesses
+
+The ANPD rule that eases the obligations of small businesses.
+
+- [Resolução CD/ANPD 2/2022](https://go.mymarketing.click/iapn-resolucao-cd-anpd-2-2022) - The LGPD regulation for small-size data processing agents. `official` `free`
+
+## Data protection
+
+The law and the authority that apply to customer and student data.
+
+- [LGPD](https://go.mymarketing.click/iapn-lgpd) - The General Data Protection Law, in the consolidated text on the Planalto site. `official` `free`
+- [ANPD](https://go.mymarketing.click/iapn-anpd) - The National Data Protection Authority, with guides and LGPD regulations. `official` `free`
+
+## Book and kit
+
+The book in the O Novo Básico series for this profession.
+
+- [IA no pequeno negócio (livro)](https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-livro) - Volume 5 of the O Novo Básico series, with the profession's tasks done with real AI and every fact sourced. `paid` `by the author`
+- [IA no pequeno negócio: o kit online](https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-o-kit-online) - The ready-made requests, the checklists and the book's sources, opened on the site. `free` `by the author`
+
+## Tags
+
+Each item says what it is. The tags next to it help you choose: official when it comes from the body that sets the standard, open source when the code is published, free or paid based on the usage model, and API and SDK based on how you integrate. Items tagged "by the author" are made by Ciro Cesar Maciel and follow the same rules as all the others.
+
+## How to contribute
+
+Know something that's missing, has changed, or is gone? Open an issue with the new entry form or send a pull request editing data/list.json. Each language's README is generated from that file.
+
+[CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Other lists
+
+Curated lists in the same format, in Portuguese and 14 other languages.
+
+- [Awesome IA no trabalho](https://go.mymarketing.click/iapn-lista-ia-no-trabalho) - AI at work, by profession: assistants, privacy, standards, and official sources to check what AI wrote.
+- [Awesome IA na advocacia](https://go.mymarketing.click/iapn-lista-ia-advocacia) - AI for lawyers: assistants, privacy, rules on AI in the legal profession and the Judiciary, and official sources to check.
+- [Awesome IA na contabilidade](https://go.mymarketing.click/iapn-lista-ia-contabilidade) - AI for accountants: assistants, privacy, CFC standards, and Receita, eSocial, and Simples sources to check.
+- [Awesome IA na sala de aula](https://go.mymarketing.click/iapn-lista-ia-sala-de-aula) - AI for teachers: assistants, minimum age and privacy for each, and education standards to check.
+- [Awesome IA no atendimento e nas vendas](https://go.mymarketing.click/iapn-lista-ia-atendimento-e-vendas) - AI for those who serve and sell: assistants, privacy, consumer rights, and labor rules for people at the counter, the cash register, and the phone.
+- [Awesome IA no escritório](https://go.mymarketing.click/iapn-lista-ia-escritorio) - AI for secretaries, assistants, and administrative aides: assistants, privacy, official writing, and scams that arrive by email.
+- [Awesome IA no primeiro trabalho](https://go.mymarketing.click/iapn-lista-ia-primeiro-trabalho) - AI for people starting to work: assistants, privacy, where to look for jobs, first-job rights, and fake job scams.
+- [Awesome Pix](https://go.mymarketing.click/iapn-lista-pix) - Pix for integrators: rules, APIs, SDKs, providers, and tools, checked one by one.
+- [Awesome MCP Brasil](https://go.mymarketing.click/iapn-lista-mcp-brasil) - MCP servers for Brazilian services: public data, CNPJ, tax, legal, financial market, commerce, and payments.
+- [Awesome livros de IA](https://go.mymarketing.click/iapn-lista-livros-ia) - Books on artificial intelligence in Portuguese: from first use to profession, from builders to the debate.
+- [Awesome ferramentas online](https://go.mymarketing.click/iapn-lista-ferramentas-online) - Free tools that open in the browser, no install: image, PDF, text, code, websites, email, video, and sales.
+- [Awesome NF-e](https://go.mymarketing.click/iapn-lista-nfe) - Electronic invoice (NF-e) for integrators: official portals, libraries by language, issuing APIs, and MCP servers.
+- [Awesome APIs Brasil](https://go.mymarketing.click/iapn-lista-apis-brasil) - Brazilian public APIs: CEP, CNPJ, Central Bank, IBGE, Legislative, Judiciary, holidays, and open data.
+- [Awesome Claude Code BR](https://go.mymarketing.click/iapn-lista-claude-code-br) - Claude Code in Portuguese: documentation, courses, skills, rules, plugins, and MCP servers made in Brazil.
+- [Awesome pagamentos Brasil](https://go.mymarketing.click/iapn-lista-pagamentos-brasil) - Payments in Brazil for integrators: rules, gateways, acquirers, boleto, subscriptions, split, and antifraud.
+- [Awesome Open Finance Brasil](https://go.mymarketing.click/iapn-lista-open-finance-brasil) - Open Finance and Open Insurance in Brazil: rules, specifications, open data, aggregators and open source.
+- [Awesome WhatsApp API](https://go.mymarketing.click/iapn-lista-whatsapp-api) - WhatsApp for integrators: Meta's official API, providers, unofficial libraries and the risk of each path.
+- [Awesome empresa de uma pessoa](https://go.mymarketing.click/iapn-lista-empresa-de-uma-pessoa) - What a person uses to run a whole business with AI agents: going live, charging, measuring, promoting and being found.
+
+## Made by Ciro Cesar Maciel
+
+Using what I make is also a way to support these lists.
+
+[![Cleaner](https://img.shields.io/badge/Cleaner-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-cleaner) [![Screenshots](https://img.shields.io/badge/Screenshots-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-screenshots) [![Speech to Text](https://img.shields.io/badge/Speech%20to%20Text-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-speech-to-text) [![Text to Speech](https://img.shields.io/badge/Text%20to%20Speech-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-text-to-speech) [![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-windows) [![Assistant](https://img.shields.io/badge/Assistant-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-assistant) [![CCM Stack](https://img.shields.io/badge/CCM%20Stack-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-ccm-stack) [![O Novo Básico](https://img.shields.io/badge/O%20Novo%20B%C3%A1sico-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-o-novo-basico) [![Ferramentas grátis](https://img.shields.io/badge/Ferramentas%20gr%C3%A1tis-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-ferramentas-gratis) [![Infrastructure](https://img.shields.io/badge/Infrastructure-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-infrastructure) [![Operations](https://img.shields.io/badge/Operations-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-operations) [![Customers](https://img.shields.io/badge/Customers-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-customers) [![Marketing](https://img.shields.io/badge/Marketing-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-marketing) [![Agents](https://img.shields.io/badge/Agents-111111?style=flat-square)](https://go.mymarketing.click/iapn-por-agents)
+
+## License
+
+This list is under CC0 1.0: copy, adapt, and redistribute it however you like, without asking permission. The generator code is in awesome-kit, under MIT.
+
+<sub>Last updated 2026-11-10.</sub>

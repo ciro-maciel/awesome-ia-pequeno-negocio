@@ -1,0 +1,461 @@
+{
+  "slug": "awesome-ia-pequeno-negocio",
+  "language": "zh",
+  "title": "Awesome IA no pequeno negócio",
+  "description": "面向MEI和小企业主的AI：助手、隐私、MEI和Simples规则，以及面向小企业的消费者和LGPD规定。",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI 助手",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iapn-chatgpt",
+          "description": "OpenAI 的助手，有免费和付费方案。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iapn-claude",
+          "description": "Anthropic 的助手，有免费和付费方案。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iapn-copilot",
+          "description": "微软的助手，也内置于 Windows 和 Office。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iapn-gemini",
+          "description": "谷歌的助手，也内置于 Gmail 和 Google Docs。",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI 的隐私",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iapn-anthropic-onde-mudar-o-treino",
+          "description": "如何阻止你在 Claude 中的对话被用于训练模型。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iapn-google-atividade-do-gemini",
+          "description": "如何关闭 Gemini 的活动记录，以及这样做会有什么变化。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iapn-microsoft-controles-de-privacidade",
+          "description": "Copilot 的隐私和训练控制选项在哪里。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iapn-openai-controles-de-dados",
+          "description": "如何阻止 ChatGPT 中的对话被用于训练模型。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iapn-whatsapp-privacidade",
+          "description": "WhatsApp 关于隐私的说明，包括与 Meta AI 对话时的情况。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "mei",
+      "title": "MEI 和 Simples Nacional",
+      "items": [
+        {
+          "name": "Comitê Gestor do IBS",
+          "url": "https://www.cgibs.gov.br/",
+          "link": "https://go.mymarketing.click/iapn-comite-gestor-do-ibs",
+          "description": "管理巴西税制改革中 IBS 的机构。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Contribuição mensal do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/pagamento-de-contribuicao-mensal",
+          "link": "https://go.mymarketing.click/iapn-contribuicao-mensal-do-mei",
+          "description": "如何开具和缴纳每月的 DAS。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Declaração anual do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/declaracao-anual-de-faturamento",
+          "link": "https://go.mymarketing.click/iapn-declaracao-anual-do-mei",
+          "description": "如何提交 DASN-SIMEI，即年度营业额申报。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 123/2006",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-complementar-123-2006",
+          "description": "微型企业法和 Simples Nacional。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-complementar-214-2025",
+          "description": "消费税制改革法：IBS、CBS 和选择性税。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MEI: perguntas frequentes",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+          "link": "https://go.mymarketing.click/iapn-mei-perguntas-frequentes",
+          "description": "关于个体微型企业主的官方解答。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nota fiscal do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/nota-fiscal",
+          "link": "https://go.mymarketing.click/iapn-nota-fiscal-do-mei",
+          "description": "MEI 何时开具发票以及如何开具。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Portal do Empreendedor",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+          "link": "https://go.mymarketing.click/iapn-portal-do-empreendedor",
+          "description": "MEI 官方门户，包括开业、指南和服务。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Portal do Simples Nacional",
+          "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+          "link": "https://go.mymarketing.click/iapn-portal-do-simples-nacional",
+          "description": "税务局面向 Simples Nacional 和 MEI 的门户。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Relatório mensal de receitas",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/relatorio-mensal",
+          "link": "https://go.mymarketing.click/iapn-relatorio-mensal-de-receitas",
+          "description": "MEI 每月毛收入报告的模板。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "卖家规则",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iapn-codigo-de-defesa-do-consumidor",
+          "description": "Planalto 汇编的《消费者保护法典》（CDC）。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iapn-decreto-do-comercio-eletronico",
+          "description": "7.962/2013 号法令，包含网上销售者的规则。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei da afixação de preços",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-da-afixacao-de-precos",
+          "description": "10.962/2004 号法律，关于如何向消费者标示价格。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do preço por forma de pagamento",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-do-preco-por-forma-de-pagamento",
+          "description": "13.455/2017 号法律，允许根据支付方式设定不同价格。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ia-nas-redes",
+      "title": "社交网络和设计中的 AI",
+      "items": [
+        {
+          "name": "Canva Shield",
+          "url": "https://www.canva.com/newsroom/news/safe-ai-canva-shield/",
+          "link": "https://go.mymarketing.click/iapn-canva-shield",
+          "description": "Canva 就其 AI 工具中的安全和数据使用所作的承诺。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Meta: privacidade e IA generativa",
+          "url": "https://www.facebook.com/privacy/genai/",
+          "link": "https://go.mymarketing.click/iapn-meta-privacidade-e-ia-generativa",
+          "description": "Meta 如何为其 AI 使用数据，包括来自 Instagram 和 WhatsApp 的数据。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos das IAs da Meta no Brasil",
+          "url": "https://www.facebook.com/legal/br-ai-terms",
+          "link": "https://go.mymarketing.click/iapn-termos-das-ias-da-meta-no-brasil",
+          "description": "Meta AI 针对在巴西用户的条款。",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "针对小企业的诈骗",
+      "items": [
+        {
+          "name": "MEI: orientações sobre fraude",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/orietacoes-sobre-fraude",
+          "link": "https://go.mymarketing.click/iapn-mei-orientacoes-sobre-fraude",
+          "description": "政府就发给MEI的假银行票据和假催收发出的提醒。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Ministério da Justiça: boleto falso",
+          "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora/paguei-boletos-ou-ofertas-que-se-mostraram-falsos",
+          "link": "https://go.mymarketing.click/iapn-ministerio-da-justica-boleto-falso",
+          "description": "付了假票据或假优惠之后该怎么做。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Registrato do Banco Central",
+          "url": "https://www.bcb.gov.br/meubc/registrato",
+          "link": "https://go.mymarketing.click/iapn-registrato-do-banco-central",
+          "description": "免费查询以您名义开立的账户、贷款和Pix密钥。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "lgpd-pequeno",
+      "title": "小型企业的LGPD指南",
+      "items": [
+        {
+          "name": "Resolução CD/ANPD 2/2022",
+          "url": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
+          "link": "https://go.mymarketing.click/iapn-resolucao-cd-anpd-2-2022",
+          "description": "LGPD针对小规模数据处理者的条例。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "数据保护",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iapn-lgpd",
+          "description": "Planalto整理的《通用数据保护法》全文。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iapn-anpd",
+          "description": "国家数据保护局，提供LGPD指南和条例。",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "书籍和套件",
+      "items": [
+        {
+          "name": "IA no pequeno negócio (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+          "link": "https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-livro",
+          "description": "O Novo Básico系列第5卷，用AI完成该职业的真实任务，每项事实都附有来源。",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no pequeno negócio: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio/kit",
+          "link": "https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-o-kit-online",
+          "description": "现成的请求、检查清单和书籍来源，可在网站上打开。",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

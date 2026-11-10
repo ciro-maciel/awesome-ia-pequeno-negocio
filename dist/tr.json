@@ -1,0 +1,461 @@
+{
+  "slug": "awesome-ia-pequeno-negocio",
+  "language": "tr",
+  "title": "Awesome IA no pequeno negócio",
+  "description": "MEI ve küçük işletme sahibi için yapay zekâ: asistanlar, gizlilik, MEI ve Simples kuralları, tüketici ve LGPD, küçük işletmeler için.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Yapay zeka asistanları",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iapn-chatgpt",
+          "description": "OpenAI'ın asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iapn-claude",
+          "description": "Anthropic'in asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iapn-copilot",
+          "description": "Microsoft'un asistanı, Windows ve Office içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iapn-gemini",
+          "description": "Google'ın asistanı, Gmail ve Google Docs içinde de çalışır.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Yapay zekalarda gizlilik",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iapn-anthropic-onde-mudar-o-treino",
+          "description": "Claude'daki konuşmalarınızın model eğitimi için kullanılmasını nasıl engelleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iapn-google-atividade-do-gemini",
+          "description": "Gemini'nin etkinlik geçmişini nasıl kapatabileceğiniz ve bunun neyi değiştirdiği.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iapn-microsoft-controles-de-privacidade",
+          "description": "Copilot'un gizlilik ve eğitim denetimlerinin nerede olduğu.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iapn-openai-controles-de-dados",
+          "description": "ChatGPT'deki konuşmaların model eğitimi için kullanılmasını nasıl engelleyebileceğiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iapn-whatsapp-privacidade",
+          "description": "WhatsApp'ın gizlilik konusunda ne dediği, Meta AI ile konuşulduğunda da dahil.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "mei",
+      "title": "MEI ve Simples Nacional",
+      "items": [
+        {
+          "name": "Comitê Gestor do IBS",
+          "url": "https://www.cgibs.gov.br/",
+          "link": "https://go.mymarketing.click/iapn-comite-gestor-do-ibs",
+          "description": "Vergi reformundaki IBS'yi yöneten kurum.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Contribuição mensal do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/pagamento-de-contribuicao-mensal",
+          "link": "https://go.mymarketing.click/iapn-contribuicao-mensal-do-mei",
+          "description": "Aylık DAS nasıl düzenlenir ve nasıl ödenir.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Declaração anual do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/declaracao-anual-de-faturamento",
+          "link": "https://go.mymarketing.click/iapn-declaracao-anual-do-mei",
+          "description": "DASN-SIMEI, yıllık ciro beyanı nasıl verilir.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 123/2006",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-complementar-123-2006",
+          "description": "Mikro İşletme Statüsü ve Simples Nacional.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-complementar-214-2025",
+          "description": "Tüketimle ilgili vergi reformu yasası: IBS, CBS ve Seçici Vergi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MEI: perguntas frequentes",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+          "link": "https://go.mymarketing.click/iapn-mei-perguntas-frequentes",
+          "description": "Bireysel mikro girişimci hakkında resmi yanıtlar.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nota fiscal do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/nota-fiscal",
+          "link": "https://go.mymarketing.click/iapn-nota-fiscal-do-mei",
+          "description": "MEI ne zaman ve nasıl fatura keser.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Portal do Empreendedor",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+          "link": "https://go.mymarketing.click/iapn-portal-do-empreendedor",
+          "description": "MEI'nin resmi portalı: açılış, rehber ve hizmetler.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Portal do Simples Nacional",
+          "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+          "link": "https://go.mymarketing.click/iapn-portal-do-simples-nacional",
+          "description": "Simples Nacional ve MEI için Receita portalı.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Relatório mensal de receitas",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/relatorio-mensal",
+          "link": "https://go.mymarketing.click/iapn-relatorio-mensal-de-receitas",
+          "description": "MEI'nin aylık brüt gelir raporunun şablonu.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "Satıcılar için kurallar",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iapn-codigo-de-defesa-do-consumidor",
+          "description": "Planalto'da derlenmiş CDC.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iapn-decreto-do-comercio-eletronico",
+          "description": "Decreto 7.962/2013, internetten satış yapanların kuralları.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei da afixação de preços",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-da-afixacao-de-precos",
+          "description": "Lei 10.962/2004, fiyatın tüketiciye nasıl gösterileceği hakkında.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do preço por forma de pagamento",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-do-preco-por-forma-de-pagamento",
+          "description": "Lei 13.455/2017, ödeme yöntemine göre farklı fiyat uygulanmasına izin verir.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ia-nas-redes",
+      "title": "Sosyal ağlarda ve tasarımda YZ",
+      "items": [
+        {
+          "name": "Canva Shield",
+          "url": "https://www.canva.com/newsroom/news/safe-ai-canva-shield/",
+          "link": "https://go.mymarketing.click/iapn-canva-shield",
+          "description": "Canva'nın kendi YZ araçlarındaki güvenlik ve veri kullanımı hakkında verdiği vaatler.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Meta: privacidade e IA generativa",
+          "url": "https://www.facebook.com/privacy/genai/",
+          "link": "https://go.mymarketing.click/iapn-meta-privacidade-e-ia-generativa",
+          "description": "Meta'nın, Instagram ve WhatsApp verileri dahil, kendi YZ'leri için verileri nasıl kullandığı.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos das IAs da Meta no Brasil",
+          "url": "https://www.facebook.com/legal/br-ai-terms",
+          "link": "https://go.mymarketing.click/iapn-termos-das-ias-da-meta-no-brasil",
+          "description": "Brezilya'da bulunanlar için Meta AI şartları.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Küçük işletmelere karşı dolandırıcılıklar",
+      "items": [
+        {
+          "name": "MEI: orientações sobre fraude",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/orietacoes-sobre-fraude",
+          "link": "https://go.mymarketing.click/iapn-mei-orientacoes-sobre-fraude",
+          "description": "Devletin MEI'ye gönderdiği sahte fatura ve tahsilat uyarıları.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Ministério da Justiça: boleto falso",
+          "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora/paguei-boletos-ou-ofertas-que-se-mostraram-falsos",
+          "link": "https://go.mymarketing.click/iapn-ministerio-da-justica-boleto-falso",
+          "description": "Sahte bir fatura veya teklifi ödedikten sonra yapılması gerekenler.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Registrato do Banco Central",
+          "url": "https://www.bcb.gov.br/meubc/registrato",
+          "link": "https://go.mymarketing.click/iapn-registrato-do-banco-central",
+          "description": "Hesaplarınız, kredileriniz ve sizin adınıza kayıtlı Pix anahtarları için ücretsiz sorgulama.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "lgpd-pequeno",
+      "title": "Küçük işletmeler için LGPD",
+      "items": [
+        {
+          "name": "Resolução CD/ANPD 2/2022",
+          "url": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
+          "link": "https://go.mymarketing.click/iapn-resolucao-cd-anpd-2-2022",
+          "description": "Küçük ölçekli veri işleyicileri için LGPD yönetmeliği.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Veri koruma",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iapn-lgpd",
+          "description": "Planalto'nun derlenmiş metnindeki Genel Veri Koruma Kanunu.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iapn-anpd",
+          "description": "Rehberler ve LGPD yönetmelikleriyle Ulusal Veri Koruma Otoritesi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Kitap ve kit",
+      "items": [
+        {
+          "name": "IA no pequeno negócio (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+          "link": "https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-livro",
+          "description": "O Novo Básico serisinin 5. cildi; meslek görevleri gerçek yapay zekâyla yapılır ve her bilgi kaynaklıdır.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no pequeno negócio: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio/kit",
+          "link": "https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-o-kit-online",
+          "description": "Hazır talepler, kontrol listeleri ve kitabın kaynakları, sitede açık olarak.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

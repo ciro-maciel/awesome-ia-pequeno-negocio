@@ -1,0 +1,461 @@
+{
+  "slug": "awesome-ia-pequeno-negocio",
+  "language": "en",
+  "title": "Awesome IA no pequeno negócio",
+  "description": "AI for MEI and small business owners: assistants, privacy, the MEI and Simples rules, consumer rules, and LGPD for small businesses.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI Assistants",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iapn-chatgpt",
+          "description": "OpenAI's assistant, with free and paid plans.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iapn-claude",
+          "description": "Anthropic's assistant, with free and paid plans.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iapn-copilot",
+          "description": "Microsoft's assistant, also inside Windows and Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iapn-gemini",
+          "description": "Google's assistant, also inside Gmail and Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Privacy in AI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iapn-anthropic-onde-mudar-o-treino",
+          "description": "How to stop your conversations on Claude from being used to train the model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iapn-google-atividade-do-gemini",
+          "description": "How to turn off Gemini's activity history and what changes as a result.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iapn-microsoft-controles-de-privacidade",
+          "description": "Where to find the privacy and training controls for Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iapn-openai-controles-de-dados",
+          "description": "How to stop conversations on ChatGPT from being used to train the model.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iapn-whatsapp-privacidade",
+          "description": "What WhatsApp says about privacy, including when you chat with Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "mei",
+      "title": "MEI and Simples Nacional",
+      "items": [
+        {
+          "name": "Comitê Gestor do IBS",
+          "url": "https://www.cgibs.gov.br/",
+          "link": "https://go.mymarketing.click/iapn-comite-gestor-do-ibs",
+          "description": "The body that manages the IBS of the tax reform.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Contribuição mensal do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/pagamento-de-contribuicao-mensal",
+          "link": "https://go.mymarketing.click/iapn-contribuicao-mensal-do-mei",
+          "description": "How to issue and pay the monthly DAS.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Declaração anual do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/declaracao-anual-de-faturamento",
+          "link": "https://go.mymarketing.click/iapn-declaracao-anual-do-mei",
+          "description": "How to file the DASN-SIMEI, the annual revenue statement.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 123/2006",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-complementar-123-2006",
+          "description": "The Microenterprise Statute and Simples Nacional.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei Complementar 214/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-complementar-214-2025",
+          "description": "The law of the consumption tax reform: IBS, CBS and Selective Tax.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "MEI: perguntas frequentes",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+          "link": "https://go.mymarketing.click/iapn-mei-perguntas-frequentes",
+          "description": "The official answers about the individual microentrepreneur.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nota fiscal do MEI",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/nota-fiscal",
+          "link": "https://go.mymarketing.click/iapn-nota-fiscal-do-mei",
+          "description": "When the MEI issues an invoice and how.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Portal do Empreendedor",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+          "link": "https://go.mymarketing.click/iapn-portal-do-empreendedor",
+          "description": "The official MEI portal, with registration, guide and services.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Portal do Simples Nacional",
+          "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+          "link": "https://go.mymarketing.click/iapn-portal-do-simples-nacional",
+          "description": "The Receita portal for Simples Nacional and MEI.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Relatório mensal de receitas",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/relatorio-mensal",
+          "link": "https://go.mymarketing.click/iapn-relatorio-mensal-de-receitas",
+          "description": "The model for the MEI's monthly gross revenue report.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "consumidor",
+      "title": "Rules for sellers",
+      "items": [
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iapn-codigo-de-defesa-do-consumidor",
+          "description": "The CDC compiled on Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decreto do comércio eletrônico",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+          "link": "https://go.mymarketing.click/iapn-decreto-do-comercio-eletronico",
+          "description": "Decree 7.962/2013, with the rules for those who sell online.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei da afixação de preços",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-da-afixacao-de-precos",
+          "description": "Law 10.962/2004, on how to display the price to the consumer.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Lei do preço por forma de pagamento",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm",
+          "link": "https://go.mymarketing.click/iapn-lei-do-preco-por-forma-de-pagamento",
+          "description": "Law 13.455/2017, which allows a different price depending on the payment method.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ia-nas-redes",
+      "title": "AI on social networks and in design",
+      "items": [
+        {
+          "name": "Canva Shield",
+          "url": "https://www.canva.com/newsroom/news/safe-ai-canva-shield/",
+          "link": "https://go.mymarketing.click/iapn-canva-shield",
+          "description": "What Canva promises about security and data use in its AI tools.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Meta: privacidade e IA generativa",
+          "url": "https://www.facebook.com/privacy/genai/",
+          "link": "https://go.mymarketing.click/iapn-meta-privacidade-e-ia-generativa",
+          "description": "How Meta uses data for its AIs, including from Instagram and WhatsApp.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Termos das IAs da Meta no Brasil",
+          "url": "https://www.facebook.com/legal/br-ai-terms",
+          "link": "https://go.mymarketing.click/iapn-termos-das-ias-da-meta-no-brasil",
+          "description": "Meta AI's terms for people in Brazil.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "golpes",
+      "title": "Scams against small businesses",
+      "items": [
+        {
+          "name": "MEI: orientações sobre fraude",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/orietacoes-sobre-fraude",
+          "link": "https://go.mymarketing.click/iapn-mei-orientacoes-sobre-fraude",
+          "description": "Government alerts about fake payment slips and collection notices sent to MEI.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Ministério da Justiça: boleto falso",
+          "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora/paguei-boletos-ou-ofertas-que-se-mostraram-falsos",
+          "link": "https://go.mymarketing.click/iapn-ministerio-da-justica-boleto-falso",
+          "description": "What to do after paying a payment slip or a fake offer.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Registrato do Banco Central",
+          "url": "https://www.bcb.gov.br/meubc/registrato",
+          "link": "https://go.mymarketing.click/iapn-registrato-do-banco-central",
+          "description": "Free check of accounts, loans and Pix keys in your name.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "lgpd-pequeno",
+      "title": "LGPD for small businesses",
+      "items": [
+        {
+          "name": "Resolução CD/ANPD 2/2022",
+          "url": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
+          "link": "https://go.mymarketing.click/iapn-resolucao-cd-anpd-2-2022",
+          "description": "The LGPD regulation for small-size data processing agents.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Data protection",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iapn-lgpd",
+          "description": "The General Data Protection Law, in the consolidated text on the Planalto site.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iapn-anpd",
+          "description": "The National Data Protection Authority, with guides and LGPD regulations.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Book and kit",
+      "items": [
+        {
+          "name": "IA no pequeno negócio (livro)",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+          "link": "https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-livro",
+          "description": "Volume 5 of the O Novo Básico series, with the profession's tasks done with real AI and every fact sourced.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA no pequeno negócio: o kit online",
+          "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio/kit",
+          "link": "https://go.mymarketing.click/iapn-ia-no-pequeno-negocio-o-kit-online",
+          "description": "The ready-made requests, the checklists and the book's sources, opened on the site.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
