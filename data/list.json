@@ -1,0 +1,412 @@
+{
+    "slug": "awesome-ia-pequeno-negocio",
+    "campaign": "awesome-ia-pequeno-negocio",
+    "linkPrefix": "iapn",
+    "title": "Awesome IA no pequeno negócio",
+    "description": "IA para o MEI e o pequeno empresário: assistentes, privacidade, as regras do MEI e do Simples, do consumidor e da LGPD para quem é pequeno.",
+    "intro": "Para o MEI e o pequeno empresário que querem usar IA no WhatsApp, na divulgação e no caixa sem expor o cliente. Junta os assistentes, os termos de IA da Meta e do Canva, as obrigações do MEI e do Simples, e as regras do consumidor que valem para quem vende.",
+    "glossary": "ChatGPT, Claude, Gemini, Copilot, Meta AI, WhatsApp, LGPD, ANPD, CERT.br, OAB, CNJ, STF, CFC, Receita Federal, eSocial, Simples Nacional, MEI, BNCC, LDB, ECA, CLT, INSS, Febraban, Gupy, CIEE, Sine and O Novo Básico are proper names; keep them.",
+    "categories": [
+        {
+            "id": "assistentes",
+            "title": "Assistentes de IA",
+            "description": "Os mais usados, em ordem alfabética. A ordem não é recomendação.",
+            "items": [
+                {
+                    "name": "ChatGPT",
+                    "url": "https://chatgpt.com/",
+                    "description": "O assistente da OpenAI, com plano grátis e pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Claude",
+                    "url": "https://claude.ai/",
+                    "description": "O assistente da Anthropic, com plano grátis e pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Copilot",
+                    "url": "https://copilot.microsoft.com/",
+                    "description": "O assistente da Microsoft, também dentro do Windows e do Office.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Gemini",
+                    "url": "https://gemini.google.com/",
+                    "description": "O assistente do Google, também dentro do Gmail e do Google Docs.",
+                    "tags": [
+                        "gratis",
+                        "pago"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "privacidade",
+            "title": "Privacidade nas IAs",
+            "description": "Onde desligar o uso das suas conversas para treinar o modelo.",
+            "items": [
+                {
+                    "name": "Anthropic: onde mudar o treino",
+                    "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+                    "description": "Como impedir que as suas conversas no Claude sejam usadas para treinar o modelo.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Google: atividade do Gemini",
+                    "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+                    "description": "Como desligar o histórico de atividade do Gemini e o que muda com isso.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Microsoft: controles de privacidade do Copilot",
+                    "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+                    "description": "Onde ficam os controles de privacidade e de treino do Copilot.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "OpenAI: controles de dados",
+                    "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+                    "description": "Como impedir que as conversas no ChatGPT sejam usadas para treinar o modelo.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "WhatsApp: privacidade",
+                    "url": "https://www.whatsapp.com/privacyquestions",
+                    "description": "O que o WhatsApp diz sobre privacidade, inclusive quando se conversa com a Meta AI.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "mei",
+            "title": "MEI e Simples Nacional",
+            "description": "As obrigações, direto do governo.",
+            "items": [
+                {
+                    "name": "Comitê Gestor do IBS",
+                    "url": "https://www.cgibs.gov.br/",
+                    "description": "O órgão que administra o IBS da reforma tributária.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Contribuição mensal do MEI",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/pagamento-de-contribuicao-mensal",
+                    "description": "Como emitir e pagar o DAS mensal.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Declaração anual do MEI",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/declaracao-anual-de-faturamento",
+                    "description": "Como entregar a DASN-SIMEI, a declaração anual de faturamento.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Lei Complementar 123/2006",
+                    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+                    "description": "O Estatuto da Microempresa e o Simples Nacional.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Lei Complementar 214/2025",
+                    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm",
+                    "description": "A lei da reforma tributária do consumo: IBS, CBS e Imposto Seletivo.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "MEI: perguntas frequentes",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes",
+                    "description": "As respostas oficiais sobre o microempreendedor individual.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Nota fiscal do MEI",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/nota-fiscal",
+                    "description": "Quando o MEI emite nota fiscal e como.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Portal do Empreendedor",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor",
+                    "description": "O portal oficial do MEI, com abertura, guia e serviços.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Portal do Simples Nacional",
+                    "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/",
+                    "description": "O portal da Receita para o Simples Nacional e o MEI.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Relatório mensal de receitas",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/relatorio-mensal",
+                    "description": "O modelo do relatório mensal de receitas brutas do MEI.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "consumidor",
+            "title": "Regras de quem vende",
+            "description": "O que vale no balcão e na venda pela internet.",
+            "items": [
+                {
+                    "name": "Código de Defesa do Consumidor",
+                    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+                    "description": "O CDC compilado no Planalto.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Decreto do comércio eletrônico",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+                    "description": "O Decreto 7.962/2013, com as regras de quem vende pela internet.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Lei da afixação de preços",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.962.htm",
+                    "description": "A Lei 10.962/2004, sobre como mostrar o preço ao consumidor.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Lei do preço por forma de pagamento",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13455.htm",
+                    "description": "A Lei 13.455/2017, que permite preço diferente conforme o meio de pagamento.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "ia-nas-redes",
+            "title": "IA nas redes e no design",
+            "description": "Os termos das ferramentas que o pequeno negócio mais usa.",
+            "items": [
+                {
+                    "name": "Canva Shield",
+                    "url": "https://www.canva.com/newsroom/news/safe-ai-canva-shield/",
+                    "description": "O que o Canva promete sobre segurança e uso de dados nas ferramentas de IA dele.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Meta: privacidade e IA generativa",
+                    "url": "https://www.facebook.com/privacy/genai/",
+                    "description": "Como a Meta usa dados para as IAs dela, inclusive do Instagram e do WhatsApp.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Termos das IAs da Meta no Brasil",
+                    "url": "https://www.facebook.com/legal/br-ai-terms",
+                    "description": "Os termos da Meta AI para quem está no Brasil.",
+                    "tags": [
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "golpes",
+            "title": "Golpes contra o pequeno negócio",
+            "description": "Boleto falso e cobrança que imita o governo.",
+            "items": [
+                {
+                    "name": "MEI: orientações sobre fraude",
+                    "url": "https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/orietacoes-sobre-fraude",
+                    "description": "Os alertas do governo sobre boletos e cobranças falsas enviados ao MEI.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Ministério da Justiça: boleto falso",
+                    "url": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora/paguei-boletos-ou-ofertas-que-se-mostraram-falsos",
+                    "description": "O que fazer depois de pagar um boleto ou uma oferta falsa.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Registrato do Banco Central",
+                    "url": "https://www.bcb.gov.br/meubc/registrato",
+                    "description": "Consulta grátis de contas, empréstimos e chaves Pix em seu nome.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "lgpd-pequeno",
+            "title": "LGPD para quem é pequeno",
+            "description": "A regra da ANPD que alivia as obrigações do pequeno negócio.",
+            "items": [
+                {
+                    "name": "Resolução CD/ANPD 2/2022",
+                    "url": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
+                    "description": "O regulamento da LGPD para agentes de tratamento de pequeno porte.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "protecao-de-dados",
+            "title": "Proteção de dados",
+            "description": "A lei e a autoridade que valem para os dados de clientes e alunos.",
+            "items": [
+                {
+                    "name": "LGPD",
+                    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+                    "description": "A Lei Geral de Proteção de Dados, no texto compilado do Planalto.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "ANPD",
+                    "url": "https://www.gov.br/anpd/pt-br",
+                    "description": "A Autoridade Nacional de Proteção de Dados, com guias e regulamentos da LGPD.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "livro",
+            "title": "Livro e kit",
+            "description": "O livro da série O Novo Básico para esta profissão.",
+            "items": [
+                {
+                    "name": "IA no pequeno negócio (livro)",
+                    "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio",
+                    "description": "O volume 5 da série O Novo Básico, com as tarefas da profissão feitas com IA de verdade e cada fato com fonte.",
+                    "tags": [
+                        "pago"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "IA no pequeno negócio: o kit online",
+                    "url": "https://ciromaciel.click/books/ia-no-pequeno-negocio/kit",
+                    "description": "Os pedidos prontos, as listas do que conferir e as fontes do livro, abertos no site.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        }
+    ],
+    "topics": [
+        "mei",
+        "pequenas-empresas",
+        "small-business",
+        "empreendedorismo"
+    ]
+}
